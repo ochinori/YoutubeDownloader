@@ -10,5 +10,5 @@ def Download(link):
   print("Your download was successful!")
 
 
-  link = input("YouTube URL: ")
-  Download(link)
+link = input("YouTube URL: ")
+Download(link)
